@@ -1,4 +1,4 @@
-# Project Documentation
+# Audit Module
 
 ## Overview
 
@@ -152,11 +152,4 @@ This project provides a robust system for tracking and managing user actions, lo
 
 Test cases ensure the correctness of each feature, verifying that actions are logged, events are triggered, and APIs function as expected.
 
----
-
-## Future Improvements
-
-- **Enhance Event Handling**: We can further optimize event handling by adding more granular event types and improving the filtering options for events.
-- **User Notifications**: Introducing user notifications for specific actions like profile updates, login alerts, etc., could further enhance the user experience.
-- **Performance Monitoring**: Adding more detailed logging for performance-related events could help in identifying and mitigating system bottlenecks.
 
